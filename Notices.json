@@ -1,5 +1,4 @@
 [{
-<<<<<<< HEAD
     "date": "Wednesday, March 18, 2020",
   "name": "Plexus Lock Screen",
   "hasImages": true,
@@ -12,16 +11,3 @@
      "hasImages": false,
      "description_1": "This update includes a bunch of new features and performance improvements. \nWe are working hard everyday to ensure the best performance for our users. We made a few small noticable performance imporvements to Plexus."
     }]
-=======
-    "date": "Thursday, March 16, 2020",
-    "name": "Plexus Lock Screen",
-    "description_1": "We care about our users privacy and protecting their data. This update also includes and important new feature. \n \n ",
-    "description_2": "With Plexus Lock Screen you can lock the Plexus app and stop from allowing unknown users browsing on your account on the app. The lock screen currently offers only two ways of unlocking, you can decide if you want to use a passcode or fingerprint. We are planning to implement in later stages Facial and Eyeris capabilities to unlock Plexus.",
-    "link_activity": "https://plexusinc.page.link/app_lock_plexus"
-},
-   {        
-     "date": "Thursday, March 16, 2020",
-     "name": "Plexus Update V1.1.3 - March Update",
-     "description": "This update includes a bunch of new features and performance improvements. \n We are working hard everyday to ensure the best performance for our users. We made a few small noticable performance imporvements to Plexus. \n \n Features \n \n With major updates come new features and with new features come more privacy and fun. \n \n Restricted Accounts \n \n This feature will enable you to avoid coming in contact with people you might know. When the restricted user sends a message it will be shown in your requested messages section. Regarding posts only you and the restricted user will be able to see the comment on your posts, unless you aprove the comment for everyone to be able to see."
-    }]
->>>>>>> 7d18af8357983b48e6f63e3d973db66b7664a386
