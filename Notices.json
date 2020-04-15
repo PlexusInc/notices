@@ -3,7 +3,7 @@
   "name": "Plexus Lock Screen",
   "hasImages": true,
   "image_url_1": "https://firebasestorage.googleapis.com/v0/b/plexus-network.appspot.com/o/notices%2FImages%2FScreenshot_20200318-193549_Plexus.jpg?alt=media&token=230835b9-47a6-46ca-9f30-5b908fabfc93",
-  "description_2": "With Plexus test Lock Screen you can lock the Plexus app and stop from allowing unknown users browsing on your account on the app. The lock screen currently offers only two ways of unlocking, you can decide if you want to use a passcode or fingerprint. We are planning to implement in later stages Facial and Eyeris capabilities to unlock Plexus."
+  "description_2": "With Plexus Lock Screen you can lock the Plexus app and stop from allowing unknown users browsing on your account on the app. The lock screen currently offers only two ways of unlocking, you can decide if you want to use a passcode or fingerprint. We are planning to implement in later stages Facial and Eyeris capabilities to unlock Plexus."
 },
    {        
      "date": "Wednesday, March 18, 2020",
